@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4e1ce52b-bc14-48fb-8d69-be65a16574c6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 142,
+  "height": 53,
+  "platformSettings": {},
+  "subMetas": {
+    "下载后解锁": {
+      "ver": "1.0.4",
+      "uuid": "42ee86d1-3386-435d-8e04-d754b1b87b08",
+      "rawTextureUuid": "4e1ce52b-bc14-48fb-8d69-be65a16574c6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 142,
+      "height": 53,
+      "rawWidth": 142,
+      "rawHeight": 53,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
